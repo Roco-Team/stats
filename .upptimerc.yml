@@ -15,7 +15,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://roco.work/img/logo.png
   name: Status / Roco - Team
-  introTitle: "This is a status page from**Roco - Team**."
+  introTitle: "This is a status page from **Roco - Team**."
   introMessage: 
   navbar:
     - title: Status
