@@ -4,7 +4,7 @@
     "url": "https://roco.work",
     "icon": "https://favicons.githubusercontent.com/roco.work",
     "slug": "profile-page-roco-work",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 300,
     "timeMonth": 300,
     "timeYear": 300,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-05": 0
+    }
   },
   {
     "name": "Roco - Team (rocoawa.com)",
