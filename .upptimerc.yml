@@ -4,7 +4,7 @@ repo: stats # The name of this repository
 
 sites:
   - name: Profile Page (roco.work)
-    url: https://roco.work
+    url: https://roco.work/
   - name: Roco - Team (rocoawa.com)
     url: https://rocoawa.com
 
