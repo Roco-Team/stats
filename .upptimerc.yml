@@ -7,25 +7,22 @@ sites:
     url: https://roco.work/
 
   - name: Roco - Team (rocoawa.com)
-    url: https://rocoawa.com
+    url: https://rocoawa.com/
     
   - name: Archives (archived.roco.work) 
-    url: https://archived.roco.work
+    url: https://archived.roco.work/
     
   - name: Blog (blog.roco.work)
-    url: https://blog.roco.work
+    url: https://blog.roco.work/1b/
     
   - name: Images (img.roco.work) 
-    url: https://img.roco.work
-    
-  - name: URL Redirection by cutt.ly (roco.ga) 
-    url: https://roco.ga
+    url: https://img.roco.work/
     
   - name: URL Redirection (roco2.tk) 
-    url: https://roco2.tk
+    url: https://roco2.tk/
     
   - name: Team announcements (announce.rocoawa.com) 
-    url: https://announce.rocoawa.com
+    url: https://announce.rocoawa.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
