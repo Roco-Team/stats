@@ -13,7 +13,7 @@ sites:
     url: https://archived.roco.work/
     
   - name: Blog (blog.roco.work)
-    url: https://blog.roco.work/admin
+    url: https://blog.roco.work/empty.png
     
   - name: Images (img.roco.work) 
     url: https://img.roco.work/IMG_4010.jpg
