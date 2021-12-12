@@ -4,7 +4,7 @@ repo: stats # The name of this repository
 
 sites:
   - name: Profile Page (roco.work)
-    url: https://roco.work/
+    url: https://roco.work/r.png
 
   - name: Roco - Team (rocoawa.com)
     url: https://rocoawa.com/
@@ -13,10 +13,10 @@ sites:
     url: https://archived.roco.work/
     
   - name: Blog (blog.roco.work)
-    url: https://blog.roco.work/1b/
+    url: https://blog.roco.work/
     
   - name: Images (img.roco.work) 
-    url: https://img.roco.work/
+    url: https://img.roco.work/IMG_4010.jpg
     
   - name: URL Redirection (roco2.tk) 
     url: https://roco2.tk/
