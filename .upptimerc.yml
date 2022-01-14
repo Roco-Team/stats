@@ -23,6 +23,9 @@ sites:
     
   - name: Team announcements (announce.rocoawa.com) 
     url: https://announce.rocoawa.com/
+    
+  - name: Navigation Page (w.roco.ml)
+    url: http://w.roco.ml/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
