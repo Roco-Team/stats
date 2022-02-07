@@ -12,9 +12,6 @@ sites:
   - name: Archives (archived.roco.work) 
     url: https://archived.roco.work/
     
-  - name: Blog (blog.roco.work)
-    url: http://blog.roco.work/empty.png
-    
   - name: Images (img.roco.work) 
     url: https://img.roco.work/IMG_4010.jpg
     
