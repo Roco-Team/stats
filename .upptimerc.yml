@@ -36,8 +36,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Main-site
-      href: https://status.roco.work
+    - title: Github
+      href: https://github.com/Roco-Team
     - title: Contact
       href: mailto:co@rocoawa.com
 
