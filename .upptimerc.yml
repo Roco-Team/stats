@@ -9,8 +9,8 @@ sites:
   - name: URL Redirection (roco2.tk) 
     url: https://roco2.tk/
     
-  - name: Team announcements (announce.rocoawa.com) 
-    url: https://announce.rocoawa.com/
+  - name: Images (img.roco.work)
+    url: https://img.roco.work/hei.jpg
     
   - name: Navigation Page (w.roco.ml)
     url: http://w.roco.ml/
