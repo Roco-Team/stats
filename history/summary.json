@@ -69,7 +69,7 @@
     "timeMonth": 1662,
     "timeYear": 1083,
     "dailyMinutesDown": {
-      "2023-01-15": 102,
+      "2023-01-15": 129,
       "2023-01-14": 1440,
       "2023-01-13": 1440,
       "2023-01-12": 1440,
@@ -365,9 +365,9 @@
     "url": "http://w.roco.ml/",
     "icon": "https://icons.duckduckgo.com/ip3/w.roco.ml.ico",
     "slug": "navigation-page-w-roco-ml",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "88.60%",
+    "uptimeDay": "88.59%",
     "uptimeWeek": "96.98%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "98.94%",
@@ -377,6 +377,7 @@
     "timeMonth": 1544,
     "timeYear": 956,
     "dailyMinutesDown": {
+      "2023-01-15": 0,
       "2023-01-14": 165,
       "2023-01-13": 141,
       "2022-12-27": 21,
