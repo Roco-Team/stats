@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 180,
-    "timeDay": 130,
-    "timeWeek": 190,
-    "timeMonth": 189,
+    "timeDay": 322,
+    "timeWeek": 211,
+    "timeMonth": 185,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2022-07-01": 69,
@@ -33,10 +33,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.54%",
-    "time": 603,
+    "uptimeYear": "99.82%",
+    "time": 602,
     "timeDay": 334,
-    "timeWeek": 347,
+    "timeWeek": 359,
     "timeMonth": 453,
     "timeYear": 445,
     "dailyMinutesDown": {
@@ -46,8 +46,7 @@
       "2022-06-30": 74,
       "2022-06-29": 19,
       "2022-06-21": 7,
-      "2022-06-16": 15,
-      "2022-01-19": 829
+      "2022-06-16": 15
     }
   },
   {
@@ -56,18 +55,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/img.roco.work.ico",
     "slug": "images-img-roco-work",
     "status": "down",
-    "uptime": "5.49%",
+    "uptime": "5.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "5.69%",
+    "uptimeYear": "5.67%",
     "time": 991,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1662,
-    "timeYear": 1092,
+    "timeMonth": 1622,
+    "timeYear": 1095,
     "dailyMinutesDown": {
-      "2023-01-18": 99,
+      "2023-01-19": 102,
+      "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
@@ -371,12 +371,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.51%",
     "uptimeMonth": "98.41%",
-    "uptimeYear": "99.04%",
+    "uptimeYear": "99.32%",
     "time": 1142,
-    "timeDay": 697,
-    "timeWeek": 2905,
-    "timeMonth": 2210,
-    "timeYear": 1054,
+    "timeDay": 1276,
+    "timeWeek": 2917,
+    "timeMonth": 2213,
+    "timeYear": 1055,
     "dailyMinutesDown": {
       "2023-01-16": 230,
       "2023-01-15": 118,
@@ -399,8 +399,7 @@
       "2022-03-13": 373,
       "2022-03-10": 12,
       "2022-03-08": 547,
-      "2022-03-07": 514,
-      "2022-01-19": 814
+      "2022-03-07": 514
     }
   }
 ]
