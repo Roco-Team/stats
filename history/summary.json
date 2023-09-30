@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.63%",
     "time": 176,
-    "timeDay": 251,
-    "timeWeek": 227,
-    "timeMonth": 173,
+    "timeDay": 201,
+    "timeWeek": 244,
+    "timeMonth": 176,
     "timeYear": 181,
     "dailyMinutesDown": {
       "2023-07-26": 12,
@@ -36,11 +36,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 431,
-    "timeDay": 266,
+    "time": 429,
+    "timeDay": 101,
     "timeWeek": 139,
-    "timeMonth": 178,
-    "timeYear": 404,
+    "timeMonth": 173,
+    "timeYear": 403,
     "dailyMinutesDown": {
       "2023-08-28": 6,
       "2023-06-22": 15,
@@ -62,13 +62,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1618,
+    "time": 1622,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1593,
     "dailyMinutesDown": {
-      "2023-09-29": 71,
+      "2023-09-30": 70,
+      "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
@@ -431,8 +432,7 @@
       "2022-10-04": 1440,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
-      "2022-10-01": 1440,
-      "2022-09-30": 1440
+      "2022-10-01": 1440
     }
   },
   {
@@ -441,18 +441,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/w.roco.ml.ico",
     "slug": "navigation-page-w-roco-ml",
     "status": "down",
-    "uptime": "87.81%",
+    "uptime": "87.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.19%",
-    "time": 1140,
+    "uptimeYear": "79.92%",
+    "time": 1141,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1302,
+    "timeYear": 1304,
     "dailyMinutesDown": {
-      "2023-09-29": 71,
+      "2023-09-30": 70,
+      "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
@@ -559,8 +560,7 @@
       "2022-12-20": 21,
       "2022-12-01": 6,
       "2022-11-17": 5,
-      "2022-10-14": 25,
-      "2022-09-30": 18
+      "2022-10-14": 25
     }
   }
 ]
