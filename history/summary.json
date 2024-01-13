@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.63%",
-    "time": 187,
-    "timeDay": 104,
-    "timeWeek": 186,
-    "timeMonth": 180,
-    "timeYear": 180,
+    "time": 180,
+    "timeDay": 77,
+    "timeWeek": 187,
+    "timeMonth": 174,
+    "timeYear": 179,
     "dailyMinutesDown": {
       "2023-10-30": 24,
       "2023-07-26": 12,
@@ -38,10 +38,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 352,
-    "timeDay": 133,
-    "timeWeek": 214,
-    "timeMonth": 190,
-    "timeYear": 341,
+    "timeDay": 134,
+    "timeWeek": 219,
+    "timeMonth": 189,
+    "timeYear": 340,
     "dailyMinutesDown": {
       "2023-10-30": 24,
       "2023-08-28": 6,
@@ -58,7 +58,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/img.roco.work.ico",
     "slug": "images-img-roco-work",
     "status": "down",
-    "uptime": "2.52%",
+    "uptime": "2.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -69,7 +69,8 @@
     "timeMonth": 0,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2024-01-12": 77,
+      "2024-01-13": 76,
+      "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
@@ -432,8 +433,7 @@
       "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
-      "2023-01-14": 1440,
-      "2023-01-13": 1440
+      "2023-01-14": 1440
     }
   },
   {
@@ -442,18 +442,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/w.roco.ml.ico",
     "slug": "navigation-page-w-roco-ml",
     "status": "down",
-    "uptime": "75.14%",
+    "uptime": "75.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "51.44%",
-    "time": 1221,
+    "uptimeYear": "51.17%",
+    "time": 1213,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1411,
+    "timeYear": 1397,
     "dailyMinutesDown": {
-      "2024-01-12": 77,
+      "2024-01-13": 76,
+      "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
@@ -659,8 +660,7 @@
       "2023-02-02": 73,
       "2023-01-16": 230,
       "2023-01-15": 118,
-      "2023-01-14": 165,
-      "2023-01-13": 141
+      "2023-01-14": 165
     }
   }
 ]
