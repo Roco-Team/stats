@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.63%",
     "time": 180,
-    "timeDay": 77,
-    "timeWeek": 187,
-    "timeMonth": 174,
+    "timeDay": 251,
+    "timeWeek": 212,
+    "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2023-10-30": 24,
@@ -37,11 +37,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 352,
-    "timeDay": 134,
-    "timeWeek": 219,
-    "timeMonth": 189,
-    "timeYear": 340,
+    "time": 351,
+    "timeDay": 98,
+    "timeWeek": 169,
+    "timeMonth": 178,
+    "timeYear": 339,
     "dailyMinutesDown": {
       "2023-10-30": 24,
       "2023-08-28": 6,
@@ -69,7 +69,8 @@
     "timeMonth": 0,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2024-01-13": 76,
+      "2024-01-14": 82,
+      "2024-01-13": 1440,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
@@ -432,8 +433,7 @@
       "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
-      "2023-01-15": 1440,
-      "2023-01-14": 1440
+      "2023-01-15": 1440
     }
   },
   {
@@ -442,18 +442,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/w.roco.ml.ico",
     "slug": "navigation-page-w-roco-ml",
     "status": "down",
-    "uptime": "75.04%",
+    "uptime": "74.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "51.17%",
-    "time": 1213,
+    "uptimeYear": "50.92%",
+    "time": 1298,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1397,
+    "timeYear": 1361,
     "dailyMinutesDown": {
-      "2024-01-13": 76,
+      "2024-01-14": 82,
+      "2024-01-13": 1440,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
@@ -659,8 +660,7 @@
       "2023-02-27": 22,
       "2023-02-02": 73,
       "2023-01-16": 230,
-      "2023-01-15": 118,
-      "2023-01-14": 165
+      "2023-01-15": 118
     }
   }
 ]
