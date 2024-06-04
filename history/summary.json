@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 178,
-    "timeDay": 81,
-    "timeWeek": 139,
-    "timeMonth": 137,
+    "timeDay": 110,
+    "timeWeek": 129,
+    "timeMonth": 135,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2023-10-30": 24,
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/roco2.tk.ico",
     "slug": "url-redirection-roco2-tk",
     "status": "down",
-    "uptime": "84.46%",
+    "uptime": "84.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "62.21%",
+    "uptimeYear": "61.94%",
     "time": 337,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2024-06-03": 80,
+      "2024-06-04": 79,
+      "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
@@ -195,12 +196,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 214,
-    "timeDay": 399,
-    "timeWeek": 252,
-    "timeMonth": 202,
+    "timeDay": 146,
+    "timeWeek": 251,
+    "timeMonth": 196,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2024-06-03": 80,
+      "2024-06-04": 79,
+      "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
@@ -563,8 +565,7 @@
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
-      "2023-06-06": 1440,
-      "2023-06-05": 1440
+      "2023-06-06": 1440
     }
   },
   {
@@ -573,18 +574,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/w.roco.ml.ico",
     "slug": "navigation-page-w-roco-ml",
     "status": "down",
-    "uptime": "62.80%",
+    "uptime": "62.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "12.47%",
-    "time": 996,
+    "uptimeYear": "12.19%",
+    "time": 999,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 914,
+    "timeYear": 916,
     "dailyMinutesDown": {
-      "2024-06-03": 80,
+      "2024-06-04": 79,
+      "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
@@ -912,8 +914,7 @@
       "2023-07-06": 119,
       "2023-07-05": 49,
       "2023-06-12": 24,
-      "2023-06-06": 126,
-      "2023-06-05": 70
+      "2023-06-06": 126
     }
   }
 ]
