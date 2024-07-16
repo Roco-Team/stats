@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 182,
-    "timeDay": 341,
-    "timeWeek": 262,
-    "timeMonth": 202,
-    "timeYear": 178,
+    "timeDay": 122,
+    "timeWeek": 208,
+    "timeMonth": 198,
+    "timeYear": 177,
     "dailyMinutesDown": {
       "2023-10-30": 24,
       "2023-07-26": 12
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/roco2.tk.ico",
     "slug": "url-redirection-roco2-tk",
     "status": "down",
-    "uptime": "80.71%",
+    "uptime": "80.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "50.71%",
+    "uptimeYear": "50.44%",
     "time": 328,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2024-07-15": 85,
+      "2024-07-16": 84,
+      "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
       "2024-07-12": 1440,
@@ -234,12 +235,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 218,
-    "timeDay": 153,
-    "timeWeek": 269,
-    "timeMonth": 252,
+    "timeDay": 143,
+    "timeWeek": 263,
+    "timeMonth": 251,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2024-07-15": 85,
+      "2024-07-16": 84,
+      "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
       "2024-07-12": 1440,
@@ -602,8 +604,7 @@
       "2023-07-21": 1440,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
-      "2023-07-18": 1440,
-      "2023-07-17": 1440
+      "2023-07-18": 1440
     }
   },
   {
@@ -612,18 +613,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/w.roco.ml.ico",
     "slug": "navigation-page-w-roco-ml",
     "status": "down",
-    "uptime": "59.91%",
+    "uptime": "59.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "1.04%",
-    "time": 924,
+    "uptimeYear": "0.77%",
+    "time": 926,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 541,
     "dailyMinutesDown": {
-      "2024-07-15": 85,
+      "2024-07-16": 84,
+      "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
       "2024-07-12": 1440,
@@ -985,8 +987,7 @@
       "2023-07-22": 1440,
       "2023-07-21": 1440,
       "2023-07-20": 1440,
-      "2023-07-19": 153,
-      "2023-07-17": 36
+      "2023-07-19": 153
     }
   }
 ]
