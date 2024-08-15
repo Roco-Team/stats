@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 132,
-    "timeWeek": 115,
-    "timeMonth": 160,
+    "timeDay": 0,
+    "timeWeek": 107,
+    "timeMonth": 154,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2023-10-30": 24
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/roco2.tk.ico",
     "slug": "url-redirection-roco2-tk",
     "status": "down",
-    "uptime": "78.24%",
+    "uptime": "78.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.49%",
+    "uptimeYear": "42.22%",
     "time": 327,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 222,
+    "timeYear": 220,
     "dailyMinutesDown": {
-      "2024-08-14": 85,
+      "2024-08-15": 80,
+      "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
@@ -263,12 +264,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 216,
-    "timeDay": 156,
-    "timeWeek": 152,
-    "timeMonth": 205,
+    "timeDay": 0,
+    "timeWeek": 154,
+    "timeMonth": 206,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2024-08-14": 85,
+      "2024-08-15": 80,
+      "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
@@ -631,8 +633,7 @@
       "2023-08-20": 1440,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
-      "2023-08-17": 1440,
-      "2023-08-16": 1440
+      "2023-08-17": 1440
     }
   },
   {
@@ -641,7 +642,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/w.roco.ml.ico",
     "slug": "navigation-page-w-roco-ml",
     "status": "down",
-    "uptime": "58.00%",
+    "uptime": "57.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -652,7 +653,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-14": 85,
+      "2024-08-15": 80,
+      "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
@@ -1015,8 +1017,7 @@
       "2023-08-20": 1440,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
-      "2023-08-17": 1440,
-      "2023-08-16": 1440
+      "2023-08-17": 1440
     }
   }
 ]
