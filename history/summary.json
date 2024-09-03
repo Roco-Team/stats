@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 180,
-    "timeDay": 299,
-    "timeWeek": 187,
+    "timeDay": 100,
+    "timeWeek": 181,
     "timeMonth": 161,
-    "timeYear": 179,
+    "timeYear": 178,
     "dailyMinutesDown": {
       "2023-10-30": 24
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/roco2.tk.ico",
     "slug": "url-redirection-roco2-tk",
     "status": "down",
-    "uptime": "76.74%",
+    "uptime": "76.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "37.28%",
-    "time": 322,
+    "uptimeYear": "37.01%",
+    "time": 323,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 170,
+    "timeYear": 171,
     "dailyMinutesDown": {
-      "2024-09-02": 97,
+      "2024-09-03": 94,
+      "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
@@ -281,12 +282,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 217,
-    "timeDay": 302,
-    "timeWeek": 212,
-    "timeMonth": 205,
+    "timeDay": 113,
+    "timeWeek": 209,
+    "timeMonth": 195,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2024-09-02": 97,
+      "2024-09-03": 94,
+      "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
@@ -649,8 +651,7 @@
       "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
-      "2023-09-05": 1440,
-      "2023-09-04": 1440
+      "2023-09-05": 1440
     }
   },
   {
@@ -659,18 +660,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/w.roco.ml.ico",
     "slug": "navigation-page-w-roco-ml",
     "status": "down",
-    "uptime": "56.85%",
+    "uptime": "56.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 963,
+    "time": 959,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-02": 97,
+      "2024-09-03": 94,
+      "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
@@ -1033,8 +1035,7 @@
       "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
-      "2023-09-05": 1440,
-      "2023-09-04": 1440
+      "2023-09-05": 1440
     }
   }
 ]
