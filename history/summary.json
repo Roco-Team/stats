@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 128,
-    "timeWeek": 186,
-    "timeMonth": 169,
+    "timeDay": 136,
+    "timeWeek": 190,
+    "timeMonth": 168,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2023-10-30": 24
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/roco2.tk.ico",
     "slug": "url-redirection-roco2-tk",
     "status": "down",
-    "uptime": "75.38%",
+    "uptime": "75.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.35%",
+    "uptimeYear": "32.08%",
     "time": 321,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 169,
+    "timeYear": 167,
     "dailyMinutesDown": {
-      "2024-09-20": 98,
+      "2024-09-21": 96,
+      "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
@@ -293,18 +294,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/img.roco.work.ico",
     "slug": "images-img-roco-work",
     "status": "down",
-    "uptime": "1.83%",
+    "uptime": "1.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 215,
-    "timeDay": 171,
+    "timeDay": 141,
     "timeWeek": 191,
     "timeMonth": 202,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2024-09-20": 98,
+      "2024-09-21": 96,
+      "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
@@ -667,8 +669,7 @@
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
-      "2023-09-23": 1440,
-      "2023-09-22": 1440
+      "2023-09-23": 1440
     }
   },
   {
@@ -677,18 +678,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/w.roco.ml.ico",
     "slug": "navigation-page-w-roco-ml",
     "status": "down",
-    "uptime": "55.81%",
+    "uptime": "55.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 840,
+    "time": 842,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-20": 98,
+      "2024-09-21": 96,
+      "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
@@ -1051,8 +1053,7 @@
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
-      "2023-09-23": 1440,
-      "2023-09-22": 1440
+      "2023-09-23": 1440
     }
   }
 ]
