@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 447,
-    "timeWeek": 189,
-    "timeMonth": 176,
+    "timeDay": 179,
+    "timeWeek": 200,
+    "timeMonth": 178,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2023-10-30": 24
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/roco2.tk.ico",
     "slug": "url-redirection-roco2-tk",
     "status": "down",
-    "uptime": "73.92%",
+    "uptime": "73.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "26.87%",
-    "time": 305,
+    "uptimeYear": "26.60%",
+    "time": 306,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 165,
+    "timeYear": 166,
     "dailyMinutesDown": {
-      "2024-10-10": 101,
+      "2024-10-11": 100,
+      "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -319,12 +320,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 212,
-    "timeDay": 208,
-    "timeWeek": 170,
+    "timeDay": 144,
+    "timeWeek": 168,
     "timeMonth": 194,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2024-10-10": 101,
+      "2024-10-11": 100,
+      "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -687,8 +689,7 @@
       "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
-      "2023-10-13": 1440,
-      "2023-10-12": 1440
+      "2023-10-13": 1440
     }
   },
   {
@@ -697,18 +698,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/w.roco.ml.ico",
     "slug": "navigation-page-w-roco-ml",
     "status": "down",
-    "uptime": "54.69%",
+    "uptime": "54.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 795,
+    "time": 793,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-10": 101,
+      "2024-10-11": 101,
+      "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -1071,8 +1073,7 @@
       "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
-      "2023-10-13": 1440,
-      "2023-10-12": 1440
+      "2023-10-13": 1440
     }
   }
 ]
