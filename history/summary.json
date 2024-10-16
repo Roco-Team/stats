@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 291,
+    "time": 177,
+    "timeDay": 109,
     "timeWeek": 249,
-    "timeMonth": 183,
+    "timeMonth": 181,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2023-10-30": 24
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/roco2.tk.ico",
     "slug": "url-redirection-roco2-tk",
     "status": "down",
-    "uptime": "73.57%",
+    "uptime": "73.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "25.50%",
+    "uptimeYear": "25.23%",
     "time": 307,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2024-10-15": 102,
+      "2024-10-16": 102,
+      "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
@@ -323,13 +324,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 211,
-    "timeDay": 204,
-    "timeWeek": 171,
-    "timeMonth": 184,
-    "timeYear": 211,
+    "time": 213,
+    "timeDay": 544,
+    "timeWeek": 221,
+    "timeMonth": 196,
+    "timeYear": 213,
     "dailyMinutesDown": {
-      "2024-10-15": 102,
+      "2024-10-16": 102,
+      "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
@@ -692,8 +694,7 @@
       "2023-10-21": 1440,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
-      "2023-10-18": 1440,
-      "2023-10-17": 1440
+      "2023-10-18": 1440
     }
   },
   {
@@ -702,18 +703,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/w.roco.ml.ico",
     "slug": "navigation-page-w-roco-ml",
     "status": "down",
-    "uptime": "54.42%",
+    "uptime": "54.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 691,
+    "time": 682,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-15": 102,
+      "2024-10-16": 103,
+      "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
@@ -1076,8 +1078,7 @@
       "2023-10-21": 1440,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
-      "2023-10-18": 1440,
-      "2023-10-17": 1440
+      "2023-10-18": 1440
     }
   }
 ]
