@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 88,
-    "timeWeek": 145,
-    "timeMonth": 205,
+    "timeDay": 102,
+    "timeWeek": 126,
+    "timeMonth": 204,
     "timeYear": 180,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/roco2.tk.ico",
     "slug": "url-redirection-roco2-tk",
     "status": "down",
-    "uptime": "71.90%",
+    "uptime": "71.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "18.93%",
-    "time": 230,
+    "uptimeYear": "18.66%",
+    "time": 231,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 172,
+    "timeYear": 171,
     "dailyMinutesDown": {
-      "2024-11-08": 100,
+      "2024-11-09": 97,
+      "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
@@ -345,12 +346,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 212,
-    "timeDay": 364,
-    "timeWeek": 276,
+    "timeDay": 206,
+    "timeWeek": 286,
     "timeMonth": 207,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2024-11-08": 100,
+      "2024-11-09": 97,
+      "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
@@ -713,8 +715,7 @@
       "2023-11-14": 1440,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
-      "2023-11-11": 1440,
-      "2023-11-10": 1440
+      "2023-11-11": 1440
     }
   },
   {
@@ -723,7 +724,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/w.roco.ml.ico",
     "slug": "navigation-page-w-roco-ml",
     "status": "down",
-    "uptime": "53.15%",
+    "uptime": "53.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -734,7 +735,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-08": 100,
+      "2024-11-09": 97,
+      "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
@@ -1097,8 +1099,7 @@
       "2023-11-14": 1440,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
-      "2023-11-11": 1440,
-      "2023-11-10": 1440
+      "2023-11-11": 1440
     }
   }
 ]
