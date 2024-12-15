@@ -6,14 +6,7 @@ sites:
   - name: Archives (archived.roco.work) 
     url: https://archived.roco.work/
     
-  - name: URL Redirection (roco2.tk) 
-    url: https://roco2.tk/
-    
-  - name: Images (img.roco.work)
-    url: https://img.roco.work/hei.jpg
-    
-  - name: Navigation Page (w.roco.ml)
-    url: http://w.roco.ml/
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
