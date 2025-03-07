@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/archived.roco.work.ico",
     "slug": "archives-archived-roco-work",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 180,
-    "timeDay": 456,
-    "timeWeek": 273,
-    "timeMonth": 187,
-    "timeYear": 177,
+    "timeDay": 122,
+    "timeWeek": 277,
+    "timeMonth": 188,
+    "timeYear": 178,
     "dailyMinutesDown": {}
   }
 ]
