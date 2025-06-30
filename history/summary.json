@@ -4,7 +4,7 @@
     "url": "https://archived.roco.work/",
     "icon": "https://icons.duckduckgo.com/ip3/archived.roco.work.ico",
     "slug": "archives-archived-roco-work",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 216,
     "timeMonth": 234,
     "timeYear": 191,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-30": 0
+    }
   }
 ]
